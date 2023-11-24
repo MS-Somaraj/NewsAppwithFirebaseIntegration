@@ -3,7 +3,7 @@
 
 ![Screenshot_1700784477](https://github.com/MS-Somaraj/NewsAppwithFirebaseIntegration/assets/61875552/c518580e-95ce-41b5-ad5c-de50d903c355)
 ![Screenshot_1700784485](https://github.com/MS-Somaraj/NewsAppwithFirebaseIntegration/assets/61875552/86dfd3fa-3391-4bc2-b7d9-d98840c715bc)
-![Screenshot_1700784739](https://github.com/MS-Somaraj/NewsAppwithFirebaseIntegration/assets/61875552/87c1a6e8-9b4e-491d-852f-8ece0dd37819)
+
 ![Screenshot_1700784831](https://github.com/MS-Somaraj/NewsAppwithFirebaseIntegration/assets/61875552/f59f5756-001a-441f-ba61-6c21d3a358f5)
 ![Screenshot_1700784867](https://github.com/MS-Somaraj/NewsAppwithFirebaseIntegration/assets/61875552/d9bb9942-af66-4325-90d4-cb90a7ce3d3d)
 
